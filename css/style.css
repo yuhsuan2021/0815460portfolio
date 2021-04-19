@@ -1,0 +1,325 @@
+html{
+	background-color: #fff9dc ;
+	box-sizing: border-box;
+	margin: 0px auto;
+  width: 100%;
+
+}
+
+
+/*style*/
+
+.body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0px auto;
+	 background-color: transparent;
+}
+
+.container {
+	margin: 0px auto;
+	width: 768px;
+	height: 1366px; 
+}
+
+.banner {
+	width: 768px;
+  	height: 83px;
+  	margin:0px auto;
+    margin-bottom: 0px;
+  	background-color: #a4f1ff
+}
+
+.Angelinas-Portfolio {
+  width: 164px;
+  height: 77px;
+  margin: 30px 110px 22px 48px;
+  text-shadow: 3px 0.3px 7px rgba(0, 0, 0, 0.54);
+  font-family: SignPainter-HouseScript;
+  font-size: 45px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.74;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ea8eac;
+}
+
+.menu {
+	display: flex;
+	width: 52px;
+	height: 14px;
+	margin-left:520px;
+	font-family: Georgia;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #76cde0;
+	list-style: none;
+	margin-top: 0;
+	margin-bottom: 17px;
+
+}
+
+
+.menu-item {
+	float: left;
+	display: block;
+	list-style: none;
+	padding-right: 50px;
+}
+
+.box-a {
+	width: 643px;
+  	height: 333px;
+  	margin: 0px auto;
+  	padding: 24px 59px 127px 62px;
+  	background-image: linear-gradient(to top, rgba(228, 238, 255, 1), #f1e8ec);
+
+}
+
+.Welcome {
+  width: 255px;
+  height: 75px;
+  margin: 0 134px 26px 133px;
+  
+  
+  
+  text-align: center;
+ 
+  
+  -webkit-text-fill-color: transparent;
+}
+
+.Hello-there-Im-Yu-Hsuan-Yen-AKA-Angelina-Yen-Im-currentl {
+  width: 522px;
+  height: 81px;
+  margin:  0 0;
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ea8eac;
+}
+
+.irasutoya {
+	width: 126px;
+  height: 129px;
+  margin: 0px auto;
+  margin-left: 200px;
+}
+
+.box-b {
+
+  width: 640px;
+  height: 295px;
+  margin: 0px auto;
+  margin-top: 40px;
+  margin-left: 340px;
+}
+
+.slide-box-a {
+  width: 640px;
+  height: 295px;
+  margin: 0px auto;
+  
+}
+
+.image-1 {
+ max-height: 295px;
+ max-width: 640px;
+  
+}
+.image-2 {
+ max-height: 295px;
+ max-width: 640px;
+}
+.image-3 {
+  max-height: 295px;
+ max-width: 640px;
+}
+
+.img-1 {
+
+  height: 295px;
+}
+.img-2 {
+  height: 295px;
+
+}
+.img-3 {
+  height: 295px;
+
+}
+
+.box-c {
+	clear: left;
+  width: 640px;
+  height: 263px;
+  margin: 0px auto;
+  margin-top: 40px;
+  
+  opacity: 0.58;
+  background-image: linear-gradient(to top, rgba(232, 220, 233, 1), #fbcdf1);
+
+}
+
+.photo {
+  float: left;
+	 width: 241px;
+  height: 239px;
+  margin: 0px auto;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+
+.Hello-Im-Yu-Hsuan-Yen-AKA-Angelina-Yen-an-illustrator-base {
+  width: 325px;
+  height: 183px;
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #2d494f;
+  margin-left: 300px;
+  padding-top: 36px;
+  line-height: 30px;
+}
+.form {
+  width: 640px;
+  
+  margin-top: 80px;
+    height: 500px;
+   margin-left: 235px;
+   padding-top: 50px;   
+    background-image: linear-gradient(to top, rgba(228, 238, 255, 1), #f1e8ec);
+
+}
+.form-a {
+  float: left;
+  margin: 0px auto;
+  margin-right: 164px;
+
+}
+.form-b {
+  margin: 0px auto;
+  width: 238px;
+  margin-left: 402px;
+}
+.form-c {
+
+}
+.textarea {
+  width: 640px;
+}
+.box-d {
+  clear: left;
+	 width: 640px;
+  height: 228px;
+  margin: 0px auto;
+  margin-top: 63px;
+  
+  background-image: linear-gradient(to top, #a1c4fd, #c2e9fb);
+
+}
+
+.right-contact-section {
+  width: 50%;
+float: left;
+}
+.Contact {
+  float: left;
+  width: 81px;
+  height: 17px;
+  margin-left: 35px;
+  padding-top: 25px;
+  font-family: Georgia;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffebaf;
+}
+.yuhsuan2001cnycuedutw {
+  width: 235px;
+  height: 18px;
+  margin: 88px 78px 90px 35px;
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #e8e1c6;
+}
+
+.left-contact-section {
+   
+  width: 50%;
+  margin-left: 320px;
+  padding-top: 26px;
+  margin-right: 0px
+}
+.Find-me-here {
+  
+  width: 100%;
+  height: 18px;
+  
+  font-family: Georgia;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffebaf;
+}
+.Facebook-Instagram-Twitter {
+  width: 83px;
+  height: 77px;
+  margin-top: 40px;
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 30px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffebaf;
+}
+.All-content-and-images-Copyright-2021-Yu-Hsuan-Yen {
+  display: inline-block;
+  width:640px;
+  height: 18px;
+  margin: 0 0 0 98px;
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffebaf;
+}
