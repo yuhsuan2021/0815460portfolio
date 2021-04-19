@@ -125,7 +125,11 @@ html{
   height: 295px;
   margin: 0px auto;
   margin-top: 40px;
-  margin-left: 340px;
+  background-color: white;
+  
+}
+.slide-box-a .slick-initialized .slick-slider .slick-dotted {
+
 }
 
 .slide-box-a {
@@ -138,15 +142,18 @@ html{
 .image-1 {
  max-height: 295px;
  max-width: 640px;
-  
+ padding-left: 120px
+
 }
 .image-2 {
  max-height: 295px;
  max-width: 640px;
+ padding-left: 200px
 }
 .image-3 {
   max-height: 295px;
  max-width: 640px;
+ padding-left: 150px
 }
 
 .img-1 {
